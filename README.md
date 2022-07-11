@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vlasis333
 - 👀 I’m interested in web development, desktop apps and gaming
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning web development
 - 💞️ Have worked with Python(ML), VB.net, MatLab, SQL, FrontEnd projects
 - 📫 How to reach me https://www.facebook.com/vlasis.dev/  ,  https://www.instagram.com/vlasis_mavraganis/
 
