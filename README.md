@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development, desktop apps and gaming
 - 🌱 I’m currently learning web development
 - 💞️ Have worked with Python(ML), VB.net, MatLab, SQL, FrontEnd projects
+    - Machine Learning: https://iopscience.iop.org/article/10.1088/1742-6596/931/1/012011
 - 📫 How to reach me https://www.facebook.com/vlasis.dev/  ,  https://www.instagram.com/vlasis_mavraganis/ , https://www.linkedin.com/in/vlasios-mavraganis-b65850162/
 
 <!---
