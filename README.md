@@ -4,8 +4,9 @@
 - 💞️ Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. Skilled in .𝐧𝐞𝐭 and 𝐒𝐐𝐋. I help companies create and sustain high quality applications with many different modules and well maintained code. 
 
 Some examples of my results include:
-• Created a scientific application for dietitians with many capabilities like custom reporting, multitude of data (from original Db and customer input), DRI/RDA analysis and a dynamic way of creating diets.
-• Created application (in Python) for mole image classification to benign or malignant using Machine
+
+- Created a scientific application for dietitians with many capabilities like custom reporting, multitude of data (from original Db and customer input), DRI/RDA analysis and a dynamic way of creating diets.
+- Created application (in Python) for mole image classification to benign or malignant using Machine
 Learning with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
 
 I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for to problems at hand throughout communication.
