@@ -12,7 +12,7 @@ Learning with accuracy over 87%. Furthermore having added capabilities like ROI 
 I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for to problems at hand throughout communication.
 
 Additionally, I am a big fan of MotoGP and I like lifting heavy weights in my free time.
-- 📫 How to reach me https://www.instagram.com/vlasis_mavraganis/ , https://www.linkedin.com/in/vlasios-mavraganis-b65850162/
+- 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/ , https://www.instagram.com/vlasis_mavraganis/
 
 <!---
 Vlasis333/Vlasis333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
