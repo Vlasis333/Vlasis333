@@ -24,16 +24,6 @@ Additionally, I am a big fan of MotoGP and I like lifting heavy weights in my fr
 </a>
 </div>
 
-<div align='left'>
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/vlasios-mavraganis/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Vlasios-Mavraganis-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-</ul>
-</div>
-
 <!---
 Vlasis333/Vlasis333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
