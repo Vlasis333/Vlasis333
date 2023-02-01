@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Vlasios Mavraganis https://www.vmavraganis.gr/
 - 👀 I’m interested in web development and .NET
 - 🌱 I’m currently studing in Coding Bootcamp
-- 💞️ Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. Skilled in .𝐧𝐞𝐭 and 𝐒𝐐𝐋. I help companies create and sustain high quality applications with many different modules and well maintained code. 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+- Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. Skilled in .𝐧𝐞𝐭 and 𝐒𝐐𝐋. I help companies create and sustain high quality applications with many different modules and well maintained code. 
 - Created a scientific application for dietitians with many capabilities like custom reporting, multitude of data (from original Db and customer input), DRI/RDA analysis and a dynamic way of creating diets.
 - Created application (in Python) for mole image classification to benign or malignant using Machine
 Learning with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
@@ -13,7 +13,6 @@ I get excited about opportunities where I am able to challenge myself and learn 
 
 Additionally, I am a big fan of MotoGP and I like lifting heavy weights in my free time.
 - 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
