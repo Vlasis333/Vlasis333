@@ -4,10 +4,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. Skilled in .𝐧𝐞𝐭 and 𝐒𝐐𝐋. I help companies create and sustain high quality applications with many different modules and well maintained code. 
-- Created a scientific application for dietitians with many capabilities like custom reporting, multitude of data (from original Db and customer input), DRI/RDA analysis and a dynamic way of creating diets.
-- Created application (in Python) for mole image classification to benign or malignant using Machine
-Learning with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
+Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. My expertise includes 𝐕𝐁.𝐧𝐞𝐭, 𝐂# and 𝐒𝐐𝐋. I specialize in helping companies create and sustain high quality products with many different modules and well-organized code. 
+
+Some examples of my results include:
+• Developed a scientific product using WinForms for dietitians and sport scientists. The product offers a range of features, including custom reporting, a SQLExpress database, Telerik UI controls, DRI/RDA analysis, and a dynamic way of creating diets.
+• Created Python application for mole image classification to benign or malignant using Convolutional Neural Network with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
 
 I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for to problems at hand throughout communication.
 
