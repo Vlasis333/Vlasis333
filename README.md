@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. My expertise includes 𝐕𝐁.𝐧𝐞𝐭, 𝐂# and 𝐒𝐐𝐋. I specialize in helping companies create and sustain high quality products with many different modules and well-organized code. 
+Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies. My expertise includes 𝐂#, 𝐉𝐚𝐯𝐚, 𝐕𝐁.𝐧𝐞𝐭, and 𝐒𝐐𝐋. I specialize in helping companies create and sustain high quality products with many different modules and well-organized code. 
 
 Some examples of my results include:
   - Developed a scientific product using WinForms for dietitians and sport scientists. The product offers a range of features, including custom reporting, a SQLExpress database, Telerik UI controls, DRI/RDA analysis, and a dynamic way of creating diets.
