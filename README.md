@@ -8,7 +8,7 @@ Some examples of my results include:
   - Developed a scientific product using WinForms for dietitians and sport scientists. The product offers a range of features, including custom reporting, a SQLExpress database, Telerik UI controls, DRI/RDA analysis, and a dynamic way of creating diets.
   - Created Python application for mole image classification to benign or malignant using Convolutional Neural Network with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
 
-I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for to problems at hand throughout communication.
+I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for problems at hand throughout communication.
 
 Additionally, I am a big fan of MotoGP and I like lifting heavy weights in my free time.
 - 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/
