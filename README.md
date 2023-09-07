@@ -2,15 +2,14 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Able and result-oriented software engineer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in .NET technologies and Spring. My expertise includes 𝐂#, 𝐉𝐚𝐯𝐚, 𝐕𝐁.𝐧𝐞𝐭, and 𝐒𝐐𝐋. I specialize in helping companies create and sustain high quality products with many different modules and well-organized code. 
+Seasoned software engineer with **4+ years of experience** and expertise in **.NET technologies** and **Spring**, specializing in **C#**, **Java**, **VB.NET**, and **SQL**. I excel at crafting well-organized code and modules, contributing to high-quality product development. 
 
 Some examples of my results include:
-  - Developed a scientific product using WinForms for dietitians and sport scientists. The product offers a range of features, including custom reporting, a SQLExpress database, Telerik UI controls, DRI/RDA analysis, and a dynamic way of creating diets.
-  - Created Python application for mole image classification to benign or malignant using Convolutional Neural Network with accuracy over 87%. Furthermore having added capabilities like ROI selection and creating the mask of the mole. (Published in IOPScience: Journal of Physics)
+  - Led the development of a scientific product for dietitians and sport scientists, featuring custom reporting, a robust SQLExpress database, and advanced UI controls.
+  - Created a Python application for mole image classification with over 87% accuracy, published in IOPScience: Journal of Physics.
+  - Played a pivotal role in the development of a highly intricate Java project for the Danish wealthcare benefit and health system, actively shaping the codebase.
 
-I get excited about opportunities where I am able to challenge myself and learn new things. I also enjoy discussing with people new ideas and find the best solutions for problems at hand throughout communication.
-
-Additionally, I am a big fan of MotoGP and I like lifting heavy weights in my free time.
+I’m passionate about embracing challenges, fostering innovation through effective communication, and outside of work, you can find me enjoying MotoGP and hitting the gym for some heavy lifting.
 - 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
