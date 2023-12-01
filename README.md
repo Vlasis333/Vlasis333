@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Seasoned software engineer with **𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞** and expertise in**.𝐍𝐄𝐓 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬** and **𝐒𝐩𝐫𝐢𝐧𝐠**, specializing in **𝐂#**, **𝐉𝐚𝐯𝐚**, **𝐕𝐁.𝐍𝐄𝐓**, and **𝐒𝐐𝐋**. I excel at crafting well-organized code and modules, contributing to high-quality product development.
+Seasoned software engineer with **𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞** and expertise in **.𝐍𝐄𝐓 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞s** and **𝐒𝐩𝐫𝐢𝐧𝐠**, specializing in **𝐂#**, **𝐉𝐚𝐯𝐚**, **𝐕𝐁.𝐍𝐄𝐓**, and **𝐒𝐐𝐋**. I excel at crafting well-organized code and modules, contributing to high-quality product development.
 
 Notable achievements:
 - Led the development of a scientific product for dietitians and sport scientists, featuring custom reporting, a robust SQLExpress database, and advanced UI controls.
