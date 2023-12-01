@@ -16,7 +16,6 @@ I’m passionate about embracing challenges, fostering innovation through effect
 <br>
 <div align="center">
 <a href="https://github.com/Vlasis333">
-  ![Anurag's GitHub stats]()
   <img src="https://github-readme-stats.vercel.app/api?username=vlasis333&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="430" alt="vlasis333"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlasis333&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="vlasis333"/>
 </a>
