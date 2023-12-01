@@ -10,8 +10,6 @@ Notable achievements:
 - Played a pivotal role in the development of a highly intricate Java project for the Danish wealthcare benefit and health system, actively shaping the codebase and code reviewing on Azure DevOps.
 
 I’m passionate about embracing challenges, fostering innovation through effective communication, and outside of work, you can find me enjoying MotoGP and hitting the gym for some heavy lifting.
-
-I’m passionate about embracing challenges, fostering innovation through effective communication, and outside of work, you can find me enjoying MotoGP and hitting the gym for some heavy lifting.
 - 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
