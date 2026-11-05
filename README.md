@@ -1,27 +1,79 @@
-- 👋 Hi, I’m Vlasios Mavraganis
+# Hi, I'm Vlasios Mavraganis 👋
 
-## **About me**
+### Senior Software Engineer at EY | C# & .NET | Enterprise Software | Banking
 
-Seasoned software engineer with **7+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞** and expertise in **.𝐍𝐄𝐓 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞s** and **𝐒𝐩𝐫𝐢𝐧𝐠**, specializing in **𝐂#**, **𝐉𝐚𝐯𝐚**, **𝐕𝐁.𝐍𝐄𝐓**, and **𝐒𝐐𝐋**. I excel at crafting well-organized code and modules, contributing to high-quality product development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vlasios-mavraganis/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Vlasis333)
 
-Notable achievements:
-- Led the development of a scientific product for dietitians and sport scientists, featuring custom reporting, a robust SQLExpress database, and advanced UI controls.
-- Created a Python application for mole image classification with over 87% accuracy, published in IOPScience: Journal of Physics.
-- Played a pivotal role in the development of a highly intricate Java project for the Danish wealthcare benefit and health system, actively shaping the codebase and code reviewing on Azure DevOps.
+## About Me
 
-I’m passionate about embracing challenges, fostering innovation through effective communication, and outside of work, you can find me enjoying MotoGP and hitting the gym for some heavy lifting.
-- 📫 How to reach me https://www.linkedin.com/in/vlasios-mavraganis/
+Senior Software Engineer with **7+ years of professional experience** designing, developing, and maintaining software solutions.
 
-[## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+Currently working at **EY as a Senior Developer in the Banking domain**, contributing to enterprise-level software development and complex business solutions.
+
+My primary expertise is within the **Microsoft technology ecosystem**, with a strong focus on C#, .NET, SQL, and enterprise application development. I also bring professional experience in Java and Spring, alongside a solid understanding of software architecture, database design, clean code, and collaborative development practices.
+
+I'm passionate about solving complex engineering challenges, building maintainable software, and continuously exploring new technologies.
+
+## Professional Highlights
+
+- **EY — Senior Developer | Banking**  
+  Contributing to enterprise software development within the banking industry, working on complex business requirements and software solutions.
+
+- **Scientific Software Development**  
+  Led the development of a specialized application for dietitians and sports scientists, featuring custom reporting, a SQL Server Express database, and advanced UI components.
+
+- **Machine Learning & Research**  
+  Developed a Python-based application for mole image classification, achieving over 87% accuracy. The research was published in the *IOPScience Journal of Physics*.
+
+- **Enterprise Java Development**  
+  Played a key role in developing a complex Java-based solution for the Danish healthcare and benefits system, contributing to implementation, code reviews, and collaborative development through Azure DevOps.
+
+## Technical Skills
+
+**Languages & Frameworks**
+- C#, .NET, ASP.NET Core
+- Java, Spring
+- VB.NET
+- Python
+- SQL
+
+**Databases**
+- Microsoft SQL Server
+- SQL Server Express
+
+**Tools & Platforms**
+- Microsoft Azure DevOps
+- Git & GitHub
+- Visual Studio
+- Visual Studio Code
+
+**Engineering Practices**
+- Object-Oriented Programming (OOP)
+- SOLID Principles & Clean Code
+- Software Architecture
+- Code Reviews
+- Database Design
+- Enterprise Application Development
+
+## Beyond Software Engineering
+
+Outside of software development, I'm passionate about motorcycles, motorsports (especially MotoGP), gaming, and fitness.
+
+I also enjoy content creation, exploring YouTube and Twitch, and building personal projects that combine technology with my interests.
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vlasios-mavraganis/)
+- 💻 [GitHub](https://github.com/Vlasis333)
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-<a href="https://github.com/Vlasis333">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlasis333&theme=dark&show_icons=true" width="430" alt="vlasis333"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlasis333&theme=dark&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="vlasis333"/>
-</a>
-</div>](url)
-
-<!---
-Vlasis333/Vlasis333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://github.com/Vlasis333">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vlasis333&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlasis333&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  </a>
+</div>
