@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vlasios Mavraganis https://www.vmavraganis.gr/
+- 👋 Hi, I’m @Vlasios Mavraganis
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
